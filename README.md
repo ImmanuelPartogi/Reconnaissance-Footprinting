@@ -14,7 +14,7 @@ A simple yet powerful reconnaissance tool for gathering essential information ab
 To get started, you'll need to install the following dependencies:
 
 ```
-pip install dnspython python-whois requests python-nmap
+pip install dnspython python-whois requests beautifulsoup4
 ```
 
 ## Usage
