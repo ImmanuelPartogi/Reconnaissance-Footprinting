@@ -27,14 +27,3 @@ python recon_tool.py example.com
 Replace example.com with the domain or host you want to investigate.
 
 
-## Example Output
-The tool will output valuable data such as:
-- **DNS records (A, MX, NS, TXT)**
-- **WHOIS information**
-- **Open ports and services (via Nmap)**
-- **HTTP headers**
-- **Active hosts**
-
-
-
-![code](https://github.com/user-attachments/assets/39a6a38f-36c7-4b95-9288-0be02aab77b4)
