@@ -1,4 +1,4 @@
-# Recon Tool
+# Reconnaissance / Footprinting
 
 A powerful reconnaissance tool designed to gather information about target domains and websites. Built specifically for Windows, this tool operates independently without requiring external tools and employs various footprinting techniques, both passive and active.
 
