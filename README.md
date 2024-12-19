@@ -90,6 +90,11 @@ This tool is designed for ethical information gathering and is ideal for:
 - Run the tool and follow the on-screen instructions.
 - View results in the generated JSON file.
 
+run:
+```
+python Footprinting_tool.py example.com
+```
+
 ---
 ## ⚠️ Disclaimer
 This tool is intended for ethical use only. Ensure you have proper authorization before performing any reconnaissance activities. Unauthorized use may violate applicable laws and regulations.
